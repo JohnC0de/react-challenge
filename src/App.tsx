@@ -1,5 +1,3 @@
-function App() {
-  return <h1>Hello World!</h1>
+export default function App() {
+  return <div>hi</div>
 }
-
-export default App
